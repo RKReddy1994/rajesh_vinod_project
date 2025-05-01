@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>vinu-raj</artifactId>
+    <artifactId>vinu-raj-pro</artifactId>
     <version>2.246</version>
     <packaging>war</packaging>
 
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.organization>barclays-org-man</sonar.organization>
+		<sonar.organization>vinu-raj-org</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io/</sonar.host.url>
 		<sonar.token>53882981554911e6c25624e613e425efe302b5a1</sonar.token>
 
