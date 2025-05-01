@@ -3,5 +3,5 @@ projectKey=com.example:vinu-raj-pro
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.62913
 dashboardUrl=https://sonarcloud.io/dashboard?id=com.example%3Avinu-raj-pro
-ceTaskId=AZaMpZvRAX_FhrYbEGy-
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZaMpZvRAX_FhrYbEGy-
+ceTaskId=AZaMqBXyAX_FhrYbEG2Y
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZaMqBXyAX_FhrYbEG2Y
