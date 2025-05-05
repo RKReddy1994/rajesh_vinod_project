@@ -19,7 +19,7 @@ spec:
       - name: mc-app
         image: rkreddy94/vinurajproject:22
         ports:
-        - containerPort: 8080
+        - containerPort: 9876
 
   
 
